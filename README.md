@@ -1,7 +1,3 @@
-# dog-breed-classifier
-Classifies images of 70 dog breeds using a custom CNN and a fine-tuned ResNet, with performance comparison and analysis.
-
-
 # Dog Breed Classifier
 
 This project compares two deep learning models for classifying images of 70 dog breeds:
